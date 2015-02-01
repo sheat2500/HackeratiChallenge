@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <fragment
+        class="com.lesmtech.nackeratichallenge.Activity.MainActivity$ApplicationsFragment"
+        android:id="@+id/applications"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></fragment>
+
+    <fragment
+        class="com.lesmtech.nackeratichallenge.Activity.MainActivity$CollectionsFragment"
+        android:id="@+id/collections"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></fragment>
+
+</LinearLayout>

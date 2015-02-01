@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NackeratiChallenge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="detail">Detail</string>
+    <string name="add_collection">Add</string>
+    <string name="twitter">Twitter</string>
+    <string name="email">Email</string>
+    <string-array name="slidingmenu">
+        <item>Applications</item>
+        <item>Collections</item>
+    </string-array>
+    <string-array name="list_view">
+        <item>Author</item>
+        <item>Entry</item>
+        <item>Updated</item>
+        <item>Rights</item>
+        <item>Title</item>
+        <item>Icon</item>
+        <item>Link</item>
+        <item>Id</item>
+    </string-array>
+</resources>
